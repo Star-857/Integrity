@@ -1,6 +1,6 @@
 ### Integrity
-#from replit.com
-#stuff
+from replit.com
+stuff
 
 
 llama
